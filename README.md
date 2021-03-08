@@ -41,7 +41,7 @@ https://dev.to/stackoverflow/select-post-from-stack-overflow-questions-where-top
 ## Backend by: 
 <a href="https://github.com/fuzious">Arpit Srivastava</a>
 ## Frontend by:
-<a href="https://github.com/">Sudhanshu Mishra</a>
+<a href="https://github.com/donOO7">Sudhanshu Mishra</a>
 
 
 <div id="footer">MIT Licence</div>
